@@ -1,0 +1,2 @@
+# serverJellyfin
+server Jellyfin
